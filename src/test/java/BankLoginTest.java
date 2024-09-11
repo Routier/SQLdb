@@ -1,5 +1,3 @@
-package Test;
-
 import Data.DataHelper;
 import Data.SQLHelper;
 import Pages.LoginPage;
